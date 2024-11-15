@@ -28,7 +28,7 @@ Utilizo  as seguintes tecnologias:
 
 - Já desenvolvi projetos em Angular, Ionic e Magento.
   
-- Atualmente estou estudando Kotlin, desenvolvimento mobile e Inteligência Artificial.
+- Atualmente estou estudando desenvolvimento mobile, Python e Inteligência Artificial.
 
 
 
